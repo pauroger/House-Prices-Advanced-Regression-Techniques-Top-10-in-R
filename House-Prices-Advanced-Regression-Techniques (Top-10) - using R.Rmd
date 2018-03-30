@@ -6,7 +6,6 @@ output:
     toc_depth: 3
 author: Pau Roger Puig-Sureda
 ---
-![Kaggle Score](C:/Users/PaU/Google Drive/IE/Courses/Machine Learning II/Practice 1/TopScore.jpg)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
